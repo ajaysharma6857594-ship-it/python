@@ -1,0 +1,23 @@
+#print("hello world")
+#print("my name is ajay sharma")
+#rint(" I am from jaipur")  
+#print("7-8-9-6-5-7") 
+#kaam kr rha hu m
+#print("m comment kr rha hu ") 
+
+#rint("hello world")
+#print("my name is ajay sharma")
+#print(" I am from jaipur")  
+#print("7-8-9-6-5-7") 
+#rint(" hello\n world") 
+#print(" she\HE") 
+#print("They\ \them") 
+#print("hello \rsharma")
+#print("hello\b world")
+#print(" I am from\f jaipur") 
+#print(" I am from\vjaipur")   
+#print("\a")
+print("This is ajay's "laptop".')  
+
+
+  
